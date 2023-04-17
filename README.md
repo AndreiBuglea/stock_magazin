@@ -1,7 +1,8 @@
 # stock_magazin
 Sistem de gestionare a stocului unui magazin
-Titlu proiect - Sistem de gestionare a stocului unui magazin
+
 Student(i)-Buglea Andrei
+
 Descriere
 -Aplicatia ajuta angajatii magazinului sa adauge, sa updateze, sa stearga si sa caute produsele de pe stoc.
 
