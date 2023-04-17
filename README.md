@@ -1,10 +1,13 @@
 # stock_magazin
 Sistem de gestionare a stocului unui magazin
 
+
 Student(i)-Buglea Andrei
+
 
 Descriere
 -Aplicatia ajuta angajatii magazinului sa adauge, sa updateze, sa stearga si sa caute produsele de pe stoc.
+
 
 Arhitectura
 -Am realizat o interfata grafica pentru utilizator, conexiunea cu baza de date si operatiile pentru a ajuta utilizatorii.
